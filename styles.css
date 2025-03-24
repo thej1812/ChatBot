@@ -20,6 +20,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 90vh;
+    
 }
 
 .chat-header {
@@ -117,7 +118,6 @@ body {
     }
 }
 
-/* Scrollbar Styles */
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -134,3 +134,6 @@ body {
 ::-webkit-scrollbar-thumb:hover {
     background: #5a5a5a;
 }
+
+
+
